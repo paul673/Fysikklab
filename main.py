@@ -15,7 +15,7 @@ p.f(save=True)
 """
 p.tegning(save=True)
 
-print("hello world")
+
 
 
 
